@@ -40,24 +40,23 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Screenshots
-![Cookie Profit Image](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Cookie Profit Image](https://github.com/rbrahul994/Cookie-Profit-BI/blob/main/screenshot/Report.png?raw=true)
 
 <!-- ROADMAP -->
 ## Roadmap
 
 - [x] Add Readme
-- [ ] Add the code file.
-- [ ] Add data to the repo.
+- [x] Add the code file.
+- [x] Add data to the repo.
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+<!-- ## Contributing -->
 
 
 <!-- LICENSE -->
-## License
+<!-- ## License -->
 
 
 
@@ -73,7 +72,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments -->
 
 
 
