@@ -65,9 +65,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter]- rbrahul994@gmail.com
+Your Name - Rahul Bhandari- rbrahul994@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/rbrahul994/Cookie-Profit-BI.git](https://github.com/rbrahul994/Cookie-Profit-BI.git)
 
 
 
