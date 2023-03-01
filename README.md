@@ -34,7 +34,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get Power Bi desktop app for your operating system [https://powerbi.microsoft.com/en-au/desktop/](https://powerbi.microsoft.com/en-au/desktop/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/rbrahul994/Cookie-Profit-BI.git
    ```
 
 <!-- USAGE EXAMPLES -->
